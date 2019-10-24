@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">8dp</dimen>
+    <dimen name="font_size">18sp</dimen>dimen>
+</resources>
+<!--any value that need to define in UI will be in "dimens"-->
+<!--dp: img&other view ; sp: font-->

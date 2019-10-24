@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Name: Estelle Lee\n
+        address: ks\n
+        Age: 20\n
+        DOB: 22/10/1999\n
+        Education:\n
+        Bachelor of Computer Science in Software Engineering\n
+        Working Experience:\n
+
+
+    </string>
+</resources>
